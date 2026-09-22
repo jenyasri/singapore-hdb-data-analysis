@@ -1,5 +1,7 @@
 # Singapore HDB Resale Price Analysis
-An exploratory data analysis of Singapore's HDB resale market using Python, examining how resale prices vary across towns and what these differences may suggest about housing affordability and accessibility.
+
+An exploratory data analysis of Singapore's HDB resale market using Python, examining price trends and differences across towns to explore housing affordability and accessibility.
+The analysis found substantial differences in resale prices across Singapore, alongside an overall upward trend in prices over the period analysed.
 This was my first independent data analysis project, completed after learning the fundamentals of Python and before beginning my BSc in Data Science and Business Analytics.
 
 ## Research Question:
