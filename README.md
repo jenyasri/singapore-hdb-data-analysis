@@ -12,6 +12,14 @@ Through this project, I aimed to explore:
 * Factors associated with resale prices, including floor area and remaining lease
 * What these patterns may suggest about housing affordability and accessibility in Singapore
 
+## Data Source
+
+The dataset used in this project is the **"Resale flat prices based on registration date from Jan-2017 onwards"** dataset published by Singapore's Housing & Development Board (HDB) on data.gov.sg.
+
+The dataset contains individual HDB resale transactions, including information such as town, flat type, floor area, remaining lease and resale price.
+
+**Source:** [Housing & Development Board (HDB) — data.gov.sg](https://data.gov.sg/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view)
+
 ## Tools & Libraries
 
 The analysis was conducted in Python using:
