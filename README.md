@@ -52,6 +52,12 @@ In the dataset analysed:
 These differences suggest that the affordability of resale HDB flats can vary substantially depending on location. 
 However, these figures represent average transaction prices and do not control for differences in factors such as flat type, floor area, remaining lease or transaction period.
 
+#### Price per Square Metre by Town
+
+To make comparisons between towns more meaningful, I also examined average price per square metre. This helps account for differences in property size and provides a more standardised way of comparing resale prices across locations.
+
+![Average Price per Square Metre by Town](avg_price_per_sqm_by_town.png)
+
 ### 4. Flat Type & Floor Area
 
 Larger flat types generally had higher resale prices. 
