@@ -34,6 +34,8 @@ I also created additional variables, including **price per square metre**, to ma
 
 I examined how average HDB resale prices changed across the period covered by the dataset. The analysis showed an overall upward trend in average resale prices, with the increase becoming more pronounced during the later years of the period analysed.
 
+![Average HDB Resale Price Over Time](avg_hdb_resale_price_over_time_graph.png)
+
 ### 3. Differences Across Towns
 
 One of the clearest patterns was the variation in average resale prices between different parts of Singapore.
